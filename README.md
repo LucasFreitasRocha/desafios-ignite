@@ -8,7 +8,9 @@ Desafios propostos no [ignite](https://www.rocketseat.com.br/ignite)
   
  ### 01 - Desafio 01 - Conceitos do React  [codigo aqui](https://github.com/LucasFreitasRocha/desafios-ignite/tree/master/web/01)
   Explicação completa  do desafio poder ser encontrada [aqui](https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d)
-  Nesse desafio foi proposto completar uma aplicação de to do , fazendo as seguintes tarefas
+  Nesse desafio foi proposto completar uma aplicação de "to do"
+  
+  Fazendo as seguintes tarefas:
   
   - Adicionar uma nova tarefa
   - Remover uma tarefa
