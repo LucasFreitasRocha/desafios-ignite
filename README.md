@@ -7,7 +7,7 @@ Desafios propostos no
 
 ## web (Reactjs)
   
- ### 01 - Desafio 01 - Conceitos do React <a href="https://github.com/LucasFreitasRocha/desafios-ignite/tree/master/web/01" target="_blank">codigo aqui</a>
+ ### 01 - Desafio 01 - Conceitos do React <a href="https://github.com/LucasFreitasRocha/desafio-ignite-web-01" target="_blank">codigo aqui</a>
   
   aplicação online na [vercel](https://devrocha-desafios-ignite-web-01.vercel.app/)
   
