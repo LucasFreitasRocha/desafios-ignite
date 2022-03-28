@@ -24,9 +24,6 @@ Desafios propostos no
 Porém fiz algumas alterações:
   
    - id era do tipo number(integer), troquei para string para usar uuid v4
-   - coloquei uma verificação de texto em branco na criação da tarefa
-    ![imagem](https://github.com/LucasFreitasRocha/desafios-ignite/blob/master/images/verificacao%20titulo%20vazio.png)
-    
    - coloquei responsividade para aparelhos mobile com até 750px
    
 <p align="center">
